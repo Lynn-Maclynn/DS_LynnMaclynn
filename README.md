@@ -6,7 +6,8 @@ Ce site est en construction et s’enrichira au fil du temps.
 
 ## 📂 Projets
 
-🔧 En cours…
+- [🧪 Prédiction de la coupe d’un diamant](projetct_1_Predict_cut_diamonds/README.md)
+- [💎 Prédiction du prix d’un diamant](project_2_Predict_price_diamondsREADME.md)
 
 ---
 
